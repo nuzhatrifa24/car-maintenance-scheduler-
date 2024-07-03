@@ -1,0 +1,13 @@
+{
+    "maintenance_tasks": {
+        "Brake Fluid Change": 20000,
+        "Air Filter ": 15000,
+        "Battery": 5000
+    },
+    "last_performed_mileage": {
+        "Brake Fluid Change": 0,
+        "Air Filter ": 16000,
+        "Battery": 0
+    },
+    "current_mileage": 1000
+}
